@@ -1,0 +1,71 @@
+/* A1 STYLES */
+
+body {
+    background-color: rgb(255 248 246);
+    color: #dd7e63;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Urbanist", sans-serif;
+}
+
+p{
+    font-weight: 450;
+    line-height: 160%;
+    margin-bottom: 25px;
+}
+
+h1 {
+   font-size: 72px;
+    line-height: 110%;
+    font-weight: 800;
+}
+
+h2 {
+    text-transform: uppercase;
+    line-height: 130%;
+    font-weight: 800;
+    padding: 18px 22px 18px 22px;
+    margin: 25px 0px;
+    background: #dd7e631f;
+    border: 1px solid #dd7e63;
+    border-radius: 10px;
+}
+
+ul{
+    font-weight: 72px;
+    line-height: 130%;
+}
+
+h3{
+    font-weight: 850;
+    text-transform: uppercase;
+}
+
+a{
+    color:#dd7e63;
+    text-decoration: none;
+    border: 1px solid #dd7e63;
+    background: #dd7e631f;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+    transition: all 0.5s;
+}
+
+a:hover{
+    color: #ffffff;
+    background-color:#dd7e63;
+}
+
+.divider {
+    border-top: 3px solid;
+    padding-top: 40px;
+    margin-top: 40px;
+}
+
+.second-divider {
+    border-top: 3px solid;
+    padding-top: 40px;
+    margin-top: 40px;
+}
